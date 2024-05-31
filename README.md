@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Deep Learning, Data Science, Big Data, Operating Systems**
 
-- 👨‍💻 All of my projects are available at [https://isiddharthsingh.github.io/](https://isiddharthsingh.github.io/)
+- 👨‍💻 All of my projects are available at [https://isiddharthsingh.github.io/projects.html](https://isiddharthsingh.github.io/projects.html)
 
 - 📫 How to reach me **sms10221@nyu.edu**
 
