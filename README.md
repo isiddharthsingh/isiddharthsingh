@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
-<h3 align="center">A passionate frontend developer from New York.</h3>
+<h3 align="center">A passionate Software Engineer with a strong focus on Deep Learning and Machine Learning from New York.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isiddharthsingh&label=Profile%20views&color=0e75b6&style=flat" alt="isiddharthsingh" /> </p>
 
@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=isiddharthsingh&show_icons=true&locale=en&layout=compact" alt="isiddharthsingh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isiddharthsingh&show_icons=true&locale=en" alt="isiddharthsingh" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=isiddharthsingh&show_icons=true&locale=en" alt="isiddharthsingh" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=isiddharthsingh&" alt="isiddharthsingh" /></p>
