@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=isiddharthsingh" alt="isiddharthsingh" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/singhsiddhart24" target="blank"><img src="https://img.shields.io/twitter/follow/singhsiddhart24?logo=twitter&style=for-the-badge" alt="singhsiddhart24" /></a> </p>
-
 - 🌱 I’m currently learning **Data Structures and Algorithms, Deep Learning, Data Science, Big Data, Operating Systems**
 
 - 👨‍💻 All of my projects are available at [https://isiddharthsingh.netlify.app/project](https://isiddharthsingh.netlify.app/project)
