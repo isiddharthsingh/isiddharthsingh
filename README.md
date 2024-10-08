@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Deep Learning, Data Science, Big Data, Operating Systems**
 
-- 👨‍💻 All of my projects are available at [https://isiddharthsingh.github.io/projects.html](https://isiddharthsingh.github.io/projects.html)
+- 👨‍💻 All of my projects are available at [https://isiddharthsingh.netlify.app/project](https://isiddharthsingh.netlify.app/project)
 
 - 📫 How to reach me **sms10221@nyu.edu**
 
-- 📄 Know about my experiences [https://isiddharthsingh.github.io/resume.pdf](https://isiddharthsingh.github.io/resume.pdf)
+- 📄 Know about my experiences [https://isiddharthsingh.netlify.app/resume](https://isiddharthsingh.netlify.app/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
