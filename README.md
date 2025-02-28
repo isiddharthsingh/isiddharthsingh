@@ -25,7 +25,7 @@
 </p>
 
   <p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&timestamp=123456" alt="dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=isiddharthsingh&show_icons=true&locale=en&layout=compact&hide=jupyter%20notebook" alt="isiddharthsingh" /
 </p>
 
