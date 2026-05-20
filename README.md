@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Siddharth Singh</h1>
+<h1 align="center">Hi, I'm Siddharth Singh</h1>
 <h3 align="center">A passionate Software Engineer with a strong focus on Deep Learning and Machine Learning from New York.</h3>
 
 <p align="center">
