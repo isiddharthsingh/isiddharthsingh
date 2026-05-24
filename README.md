@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Siddharth Singh</h1>
-<h3 align="center">A passionate Software Engineer with a strong focus on Deep Learning and Machine Learning from New York.</h3>
+<h3 align="center">I'm a Software Engineer with a strong focus on Deep Learning and Machine Learning from New York.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=isiddharthsingh&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
