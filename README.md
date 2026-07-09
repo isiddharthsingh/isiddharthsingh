@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Deep Learning, Data Science, Big Data, Operating Systems**
 
-- 👨‍💻 All of my projects are available at [https://isiddharthsingh.netlify.app/project](https://isiddharthsingh.netlify.app/project)
+- 👨‍💻 All of my projects are available at https://isiddharthsingh.netlify.app/#/projects
 
 - 📫 How to reach me **sms10221@nyu.edu**
 
-- 📄 Know about my experiences [https://isiddharthsingh.netlify.app/resume](https://isiddharthsingh.netlify.app/resume)
+- 📄 Know about my experiences https://isiddharthsingh.netlify.app/#/resume
 
 <h3 align="left">Connect with me:</h3>
 
